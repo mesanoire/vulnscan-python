@@ -6,5 +6,5 @@ its risk factors (MTTP, number of total vulns in the package, etc)
 ## Installation
 * Install latest version of python (https://www.python.org/downloads/)
 * Run the following command 'pip install bs4 requests numpy'
-* Run the scanner with 'python vulnscan.py <URL>'
+* Run the scanner with 'python vulnscan.py **URL**'
 
